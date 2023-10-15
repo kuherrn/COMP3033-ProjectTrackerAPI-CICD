@@ -1,0 +1,53 @@
+[
+{
+    "name": "Lotstring",
+    "dueDate": "2023-12-08",
+    "course": "JS",
+    "status": "TO DO"
+  }, {
+    "name": "Bytecard",
+    "dueDate": "2023-09-19",
+    "course": "ASP.NET",
+    "status": "DONE"
+  }, {
+    "name": "Trippledex",
+    "dueDate": "2023-09-17",
+    "course": "PROGRAMMING",
+    "status": "TO DO"
+  }, {
+    "name": "Matsoft",
+    "dueDate": "2023-12-11",
+    "course": "PROGRAMMING",
+    "status": "TO DO"
+  }, {
+    "name": "Zaam-Dox",
+    "dueDate": "2023-10-08",
+    "course": "ASP.NET",
+    "status": "DONE"
+  }, {
+    "name": "Sonsing",
+    "dueDate": "2023-12-13",
+    "course": "ASP.NET",
+    "status": "IN PROGRESS"
+  }, {
+    "name": "Namfix",
+    "dueDate": "2023-11-24",
+    "course": "JS",
+    "status": "IN PROGRESS"
+  }, {
+    "name": "Zathin",
+    "dueDate": "2023-12-12",
+    "course": "PROGRAMMING",
+    "status": "DONE"
+  }, {
+    "name": "Tresom",
+    "dueDate": "2023-12-08",
+    "course": "JS",
+    "status": "IN PROGRESS"
+  }, {
+    "name": "Latlux",
+    "dueDate": "2023-12-03",
+    "course": "ASP.NET",
+    "status": "IN PROGRESS"
+  }
+]
